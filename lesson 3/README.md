@@ -1,6 +1,7 @@
 ### Тут вы найдете:
 * Код написанный на занятии. Внимательно читайте комметарии. Они помогу разобраться.
 * Скришоты по ДЗ.
+* Заготовку для проекта на f3.
 
 ### Полезные материалы:
 * Как сделать авторизацию на F3 - https://www.youtube.com/watch?v=2vNijEnRBfg
@@ -20,7 +21,11 @@
 ### Полезные функции PHP:
 1. password_hash - см. тут http://php.net/manual/ru/function.password-hash.php
 2. password_verify - см. тут http://php.net/manual/ru/function.password-verify.php
+3. rand - см. тут - http://php.net/manual/ru/function.rand.php
 
 ### Полезные функции F3:
-1. session - https://fatfreeframework.com/3.6/session
-2. reroute - https://fatfreeframework.com/3.6/routing-engine
+1. session - см. тут https://fatfreeframework.com/3.6/session
+2. reroute - см. тут https://fatfreeframework.com/3.6/routing-engine
+
+### Полезное из html
+1. Скрытое поле в html - см. тут http://htmlbook.ru/samhtml5/formy/skrytoe-pole
