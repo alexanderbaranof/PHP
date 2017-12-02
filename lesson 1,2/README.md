@@ -1,4 +1,15 @@
 ### Тут вы найдете:
 * Презентации по первому и второму уроку
-* Ссылка на шпаргалку по git < https://github.com/avasyukov/gcm-3d/wiki/Git-HowTo-%28ru%29 >
+* Ссылка на шпаргалку по git https://github.com/avasyukov/gcm-3d/wiki/Git-HowTo-%28ru%29
 
+### Полезные материалы:
+* Как пользоваться FileZilla - https://www.youtube.com/watch?v=LPxmz9ZEks4
+* Что такое GitHub Pages? - https://www.youtube.com/watch?v=YhseegRCn0U
+* Как встроить код JavaScript в HTML-страницу - http://info-master.su/programming/web/kak-vstroit-javascript-v-html.php
+* Как оформлаять README.md - http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html
+
+### Домашнее задание:
+Сделай свой личный сайт. Который презентовал бы Вас. Можете сами придумать идею шаблона. Можете у кого-то подсмотреть. Есть несколько требований:
+1. Адаптивность - вы должны показать, что за осеннюю школу вы поняли , что это такое и как ее реализовать при помощи bootstrap.
+2. Использовать javascrip на своей странице. ( ВНИМАНИЕ! Я не говорю выучить JavaScript за неделю. Я говорю , что вы должна научиться встраивать готовые скрипты к себе на страницу ).
+3. Основная часть кода должна быть именно Ваша. Поверьте, легко отличить где больше 50% будет копипаста. Так не надо. Называйте правильно классы в css - говорящим названием.
